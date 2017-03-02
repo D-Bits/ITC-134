@@ -1,3 +1,4 @@
+# it works -- Anu Slorah
 For turning terminal text green
 
 PS1='\[\e[1;32m\][\d\t\u@\h\w]\$\[\e[m]'
