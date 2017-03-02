@@ -114,6 +114,6 @@ fi
 
 
 # ACTUAL Bash script
-
+# works --Anu Slorah
 PS1='\[\e[1;32m\][\d\t\u@\h\w]\$\[\e[m]'
 
