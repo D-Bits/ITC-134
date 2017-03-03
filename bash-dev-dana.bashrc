@@ -1,3 +1,6 @@
+# Actual BASH code written by Dana at the bottom
+
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
