@@ -118,5 +118,6 @@ fi
 
 # ACTUAL Bash script
 # works --Anu Slorah
+# This has been tested and approved by Papa Brady (James Shively III) - very simple and easy to read
 PS1='\[\e[1;32m\][\d\t\u@\h\w]\$\[\e[m]'
 
